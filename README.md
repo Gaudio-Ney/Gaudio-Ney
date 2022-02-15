@@ -1,7 +1,7 @@
 ### Hi there, my name is Gáudio and I'm an iOS Developer. 👋
 
-- 🔭 I’m currently working at Apple Developer Academy PUC-Rio.
-- 🌱 I’m currently learning Swift and mobile (iOS) developemnt.
+- 📱 I’m currently working at KaBuM! SA.
+- 🍎 I was an Apple Developer Academy student in Brazil at PUC-Rio.
 - 😄 Pronouns: he/his.
 
 <div align="center">
