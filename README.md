@@ -1,6 +1,6 @@
 ### Hi there, my name is Gáudio and I'm an iOS Developer. 👋
 
-- 📱 I’m currently working at KaBuM! SA.
+- 📱 I’m currently working at KaBuM! SA (Home-office).
 - 🍎 I was an Apple Developer Academy student in Brazil at PUC-Rio.
 - 😄 Pronouns: he/his.
 
