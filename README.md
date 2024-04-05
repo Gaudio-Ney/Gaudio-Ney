@@ -1,8 +1,9 @@
 ### Hi there, my name is Gáudio and I'm an iOS Developer. 👋
 
-- 📱 I'm currently working at Hurb Technology S.A. as iOS Developer (Hibrid).
-- 📱 I worked at KaBuM! S.A. as iOS Developer (Home-office).
-- 🍎 I was an Apple Developer Academy trainee at PUC-Rio University (Home-office).
+- 📱 I worked at PicPay S.A. as iOS Developer (Home-office - 8 months).
+- 📱 I worked at Hurb Technology S.A. as iOS Developer (Hibrid - 11 months).
+- 📱 I worked at KaBuM! S.A. as iOS Developer (Home-office - 1 year).
+- 🍎 I was an Apple Developer Academy trainee at PUC-Rio University (Home-office - 2 years).
 - 📚 I'm graduated by Federal University of Rio de Janeiro (UFRJ).
 - 🤩 I am fascinated by technology and Apple's Ecossystem and people.
 - 😄 Pronouns: he/his.
